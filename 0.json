@@ -1,0 +1,23 @@
+{
+  "name": "CryptoLlama",
+  "symbol": "LLAMA",
+  "description": "The funniest meme coin on Solana. Spit happens!",
+"external_url": "https://cryptollama.webby.fun/",
+ "image": "0.jpg",
+"attributes": [
+{
+"trait_type": "Rarity",
+"value": "Common"
+}
+ ],
+"properties": {
+"files": [
+{
+"uri": "0.jpg",
+"type": "image/jpg"
+}
+],
+"category": "image"
+}
+
+}
